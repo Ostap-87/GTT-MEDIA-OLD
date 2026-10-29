@@ -1,0 +1,17 @@
+{
+ "account": "@globaltech_tour",
+ "account_name": "Global Tech Tour",
+ "network": "Instagram",
+ "format": "Stories",
+ "published_at": "2026-10-16T17:33:35+03:00",
+ "url": null,
+ "post_id": "17950870671324300",
+ "title": "Stories: части ролика «Бытовая техника и умный дом»",
+ "trial": "",
+ "files": [
+  "01_2026-10-07-byt-tehnika-v3-stories-1.mp4",
+  "02_2026-10-07-byt-tehnika-v3-stories-2.mp4"
+ ],
+ "path": "instagram/globaltech_tour/2026-10/2026-10-16_1733_stories_byt-tehnika",
+ "source": "GTT/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-16_1730_byt-tehnika"
+}

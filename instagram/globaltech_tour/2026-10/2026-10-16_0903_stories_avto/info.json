@@ -1,0 +1,17 @@
+{
+ "account": "@globaltech_tour",
+ "account_name": "Global Tech Tour",
+ "network": "Instagram",
+ "format": "Stories",
+ "published_at": "2026-10-16T09:03:26+03:00",
+ "url": null,
+ "post_id": "18111478955607361",
+ "title": "Stories: части ролика «Автопром и электромобили»",
+ "trial": "",
+ "files": [
+  "01_2026-10-15-avto-stories-1.mp4",
+  "02_2026-10-15-avto-stories-2.mp4"
+ ],
+ "path": "instagram/globaltech_tour/2026-10/2026-10-16_0903_stories_avto",
+ "source": "GTT/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-16_0900_avto"
+}

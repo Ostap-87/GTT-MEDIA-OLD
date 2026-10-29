@@ -1,0 +1,17 @@
+{
+ "account": "@globaltech_tour",
+ "account_name": "Global Tech Tour",
+ "network": "Instagram",
+ "format": "Stories",
+ "published_at": "2026-10-19T09:04:11+03:00",
+ "url": null,
+ "post_id": "18113773922036931",
+ "title": "Stories: части ролика «ИИ Китая»",
+ "trial": "",
+ "files": [
+  "01_2026-10-07-ai-stories-1.mp4",
+  "02_2026-10-07-ai-stories-2.mp4"
+ ],
+ "path": "instagram/globaltech_tour/2026-10/2026-10-19_0904_stories_ai",
+ "source": "GTT/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-19_0900_ai"
+}
