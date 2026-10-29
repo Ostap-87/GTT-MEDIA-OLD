@@ -490,6 +490,26 @@
   "source": "OSTAPDOTCENKO/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-15_1030_od-seriya-1"
  },
  {
+  "account": "@ostap.dotsenko",
+  "account_name": "Остап Доценко",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-15T10:36:27+03:00",
+  "url": null,
+  "post_id": "18045603368827058",
+  "title": "Stories 07–11: «Мои соцсети», «Telegram GTT», «LinkedIn», «Мой сайт», «Везде»",
+  "trial": "",
+  "files": [
+   "01_07.mp4",
+   "02_08.mp4",
+   "03_09.mp4",
+   "04_10.mp4",
+   "05_11.mp4"
+  ],
+  "path": "instagram/ostap.dotsenko/2026-10/2026-10-15_1036_stories_od-seriya-2",
+  "source": "OSTAPDOTCENKO/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-15_1031_od-seriya-2"
+ },
+ {
   "account": "@globaltech_tour",
   "account_name": "Global Tech Tour",
   "network": "Instagram",
@@ -1142,5 +1162,151 @@
   ],
   "path": "instagram/globaltech_tour/2026-10/2026-10-27_0841_karusel_yingke",
   "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-27_0800_yingke"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-29T08:31:15+03:00",
+  "url": "https://www.instagram.com/reel/DfEQp-IGMVd/",
+  "post_id": "18078774377434025",
+  "title": "Технопарки Китая",
+  "trial": "",
+  "files": [
+   "tehnoparki.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-29_0831_reels_tehnoparki",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-29_0830_tehnoparki"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-29T08:33:13+03:00",
+  "url": null,
+  "post_id": "18132976618803609",
+  "title": "Stories: части ролика «Технопарки Китая»",
+  "trial": "",
+  "files": [
+   "01_tehnoparki-stories-1.mp4",
+   "02_tehnoparki-stories-2.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-29_0833_stories_tehnoparki",
+  "source": "GTT/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-29_0831_tehnoparki"
+ },
+ {
+  "account": "@ostap.dotsenko",
+  "account_name": "Остап Доценко",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-29T08:36:03+03:00",
+  "url": "https://www.instagram.com/reel/DfERLnHlSMt/",
+  "post_id": "18144849397519373",
+  "title": "Технопарки Китая",
+  "trial": "manual",
+  "files": [
+   "tehnoparki.mp4"
+  ],
+  "path": "instagram/ostap.dotsenko/2026-10/2026-10-29_0836_reels_tehnoparki-trial",
+  "source": "OSTAPDOTCENKO/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-29_0832_tehnoparki-trial"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-29T11:04:46+03:00",
+  "url": "https://www.instagram.com/p/DfEiRB4lpAG/",
+  "post_id": "18067384637613972",
+  "title": "Как попасть в технопарки Китая",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-29_1104_karusel_tur-china-tech-parks",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-29_1500_tur-china-tech-parks"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-29T17:31:46+03:00",
+  "url": "https://www.instagram.com/reel/DfFOhJHgAf_/",
+  "post_id": "18228712423330863",
+  "title": "Китайские бренды, покорившие мир",
+  "trial": "",
+  "files": [
+   "legprom.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-29_1731_reels_legprom",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-29_1730_legprom"
+ },
+ {
+  "account": "@ostap.dotsenko",
+  "account_name": "Остап Доценко",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-29T17:32:55+03:00",
+  "url": "https://www.instagram.com/reel/DfFOphmlIMk/",
+  "post_id": "18432470266145338",
+  "title": "Китайские бренды, покорившие мир",
+  "trial": "manual",
+  "files": [
+   "legprom.mp4"
+  ],
+  "path": "instagram/ostap.dotsenko/2026-10/2026-10-29_1732_reels_legprom-trial",
+  "source": "OSTAPDOTCENKO/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-29_1732_legprom-trial"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-29T17:46:00+03:00",
+  "url": "https://www.instagram.com/p/DfFQN0UlRwD/",
+  "post_id": "18647746372024466",
+  "title": "Как китайские бренды покорили мир",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-29_1746_karusel_tur-china-global-brands",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-29_1745_tur-china-global-brands"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-29T18:03:33+03:00",
+  "url": null,
+  "post_id": "17987964842889504",
+  "title": "Stories: части ролика «Китайские бренды, покорившие мир»",
+  "trial": "",
+  "files": [
+   "01_legprom-stories-1.mp4",
+   "02_legprom-stories-2.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-29_1803_stories_legprom",
+  "source": "GTT/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-29_1800_legprom"
  }
 ]
