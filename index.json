@@ -1,0 +1,956 @@
+[
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-12T04:05:24+03:00",
+  "url": "https://www.instagram.com/p/DeYAyfVoJhX/",
+  "post_id": "18072166685735993",
+  "title": "Роботы от китайских заводов — без посредников",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-12_0405_karusel_aura-intro",
+  "source": "AURA/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-12_0405_aura-intro"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-12T05:04:08+03:00",
+  "url": "https://www.instagram.com/reel/DeYHeYfCfjU/",
+  "post_id": "18115262384108790",
+  "title": "Reels-версия интро-карусели «Роботы от китайских заводов — без посредников» (вступление: большой робот, робособака и печать Aura; затем робот вытаскивает слайды с первого по девятый)",
+  "trial": "",
+  "files": [
+   "2026-10-12-foto-aura-intro-reels.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-12_0504_reels_aura-intro-reels",
+  "source": "AURA/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-12_0502_aura-intro-reels"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-12T10:23:19+03:00",
+  "url": null,
+  "post_id": "18221143837340286",
+  "title": "Stories по Reels-интро «Роботы от китайских заводов — без посредников» (ролик в карточке, заголовок «Роботы от заводов — без посредников», внизу https://aura-robotics.ru/)",
+  "trial": "",
+  "files": [
+   "2026-10-12-aura-intro-reels-story-aura.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-12_1023_stories_aura-intro-reels-story",
+  "source": "AURA/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-12_1030_aura-intro-reels-story"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-12T13:31:25+03:00",
+  "url": "https://www.instagram.com/reel/DeZBfEZAicZ/",
+  "post_id": "18088175774259494",
+  "title": "Интро — кто такой Остап и что такое Global Tech Tour",
+  "trial": "",
+  "files": [
+   "2026-10-07-intro.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-12_1331_reels_intro",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-12_1325_intro"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-12T13:33:12+03:00",
+  "url": "https://www.instagram.com/p/DeZBxD5oMk2/",
+  "post_id": "17948856024299882",
+  "title": "12 заводов роботов за одну поездку",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-12_1333_karusel_tur-robotics",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-12_1330_tur-robotics"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-12T13:55:08+03:00",
+  "url": null,
+  "post_id": "18340420135274008",
+  "title": "Stories по Reels-версии карусели «12 заводов роботов за одну поездку» (ролик в карточке, внизу https://globaltechtour.ru/)",
+  "trial": "",
+  "files": [
+   "2026-10-12-gtt-robotics-reels-story.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-12_1355_stories_tur-robotics-reels-story",
+  "source": "GTT/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-12_1400_tur-robotics-reels-story"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-12T13:57:15+03:00",
+  "url": null,
+  "post_id": "18339994252252453",
+  "title": "Stories: части ролика «Интро — кто такой Остап и что такое Global Tech Tour»",
+  "trial": "",
+  "files": [
+   "01_2026-10-07-intro-stories-1.mp4",
+   "02_2026-10-07-intro-stories-2.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-12_1357_stories_intro",
+  "source": "GTT/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-12_1405_intro"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-13T06:42:09+03:00",
+  "url": "https://www.instagram.com/reel/Dea3fYKH5lq/",
+  "post_id": "17890857567455370",
+  "title": "Reels-версия карусели «AgiBot A2-W: гуманоид на колёсах для цеха» (гость: AGV)",
+  "trial": "",
+  "files": [
+   "2026-10-10-foto-agibot-a2-w-reels.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-13_0642_reels_agibot-a2-w-reels",
+  "source": "AURA/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-13_0640_agibot-a2-w-reels"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-13T06:43:07+03:00",
+  "url": "https://www.instagram.com/reel/Dea3j4XAfca/",
+  "post_id": "18133553524739942",
+  "title": "Роботы",
+  "trial": "",
+  "files": [
+   "2026-10-08-roboty.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-13_0643_reels_roboty",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-13_0640_roboty"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-13T06:43:51+03:00",
+  "url": "https://www.instagram.com/p/Dea3uFzlau4/",
+  "post_id": "18052663721598564",
+  "title": "AgiBot A2-W: гуманоид на колёсах для цеха",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg",
+   "10.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-13_0643_karusel_agibot-a2-w",
+  "source": "AURA/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-13_0640_agibot-a2-w"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-13T06:44:38+03:00",
+  "url": "https://www.instagram.com/p/Dea3z7NFa0a/",
+  "post_id": "18061238621795179",
+  "title": "Кто делает гуманоидов в Китае",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg",
+   "10.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-13_0644_karusel_tur-robotics-humanoids",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-13_0640_tur-robotics-humanoids"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-13T06:44:50+03:00",
+  "url": null,
+  "post_id": "18122901943918950",
+  "title": "Модель дня №1 «AgiBot A2-W: гуманоид на колёсах для цеха»",
+  "trial": "",
+  "files": [
+   "01.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-13_0644_stories_anons-agibot-a2-w",
+  "source": "AURA/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-13_0640_anons-agibot-a2-w"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-14T08:39:47+03:00",
+  "url": "https://www.instagram.com/reel/DedptRTiKr_/",
+  "post_id": "18115644629606672",
+  "title": "Reels-версия карусели «MATRIX-1: большой и выносливый» (гость: манипулятор)",
+  "trial": "",
+  "files": [
+   "2026-10-10-foto-matrix-1-reels-cover.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-14_0839_reels_matrix-1-reels",
+  "source": "AURA/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-14_0730_matrix-1-reels"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-14T08:41:37+03:00",
+  "url": "https://www.instagram.com/reel/Dedp6gok0q_/",
+  "post_id": "18092370596273246",
+  "title": "Техгиганты Китая",
+  "trial": "",
+  "files": [
+   "2026-10-07-tech-giganty-cover.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-14_0841_reels_tech-giganty",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-14_0800_tech-giganty"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-14T11:04:00+03:00",
+  "url": null,
+  "post_id": "18019760513937679",
+  "title": "Модель дня №7 «MATRIX-1: большой и выносливый»",
+  "trial": "",
+  "files": [
+   "01.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-14_1104_stories_anons-matrix-1",
+  "source": "AURA/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-14_1100_anons-matrix-1"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-14T13:03:26+03:00",
+  "url": "https://www.instagram.com/p/DeeH9KomyLO/",
+  "post_id": "17911718604487463",
+  "title": "Девять гигантов Китая за одну поездку",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-14_1303_karusel_tur-china-tech-giants",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-14_1300_tur-china-tech-giants"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-14T18:04:17+03:00",
+  "url": "https://www.instagram.com/p/DeeqYfNkVGK/",
+  "post_id": "18167626741484857",
+  "title": "MATRIX-1: большой и выносливый",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-14_1804_karusel_matrix-1",
+  "source": "AURA/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-14_1800_matrix-1"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-15T08:33:45+03:00",
+  "url": "https://www.instagram.com/reel/DegNz1IgfN_/",
+  "post_id": "18140681098570984",
+  "title": "Чай и кофе Китая",
+  "trial": "",
+  "files": [
+   "2026-10-07-chai-kofe-cover.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-15_0833_reels_chai-kofe",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-15_0830_chai-kofe"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-15T08:46:39+03:00",
+  "url": "https://www.instagram.com/p/DegPXCGFUVG/",
+  "post_id": "18112884670874446",
+  "title": "Как Luckin обогнал Starbucks в Китае",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-15_0846_karusel_tur-china-tea-coffee-retail",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-15_0845_tur-china-tea-coffee-retail"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-15T09:02:02+03:00",
+  "url": "https://www.instagram.com/reel/DegRDNTD0IR/",
+  "post_id": "18143971354606209",
+  "title": "Reels-версия карусели «Robotera L7: быстрый и рукастый» (гость: роборука)",
+  "trial": "",
+  "files": [
+   "2026-10-10-foto-robotera-l7-reels-cover.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-15_0902_reels_robotera-l7-reels",
+  "source": "AURA/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-15_0900_robotera-l7-reels"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-15T09:17:17+03:00",
+  "url": "https://www.instagram.com/p/DegS3rRFJU8/",
+  "post_id": "17910987861518804",
+  "title": "Robotera L7: быстрый и рукастый",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg",
+   "10.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-15_0917_karusel_robotera-l7",
+  "source": "AURA/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-15_0915_robotera-l7"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-15T09:31:15+03:00",
+  "url": null,
+  "post_id": "18029602958913560",
+  "title": "Модель дня №9 «Robotera L7: быстрый и рукастый»",
+  "trial": "",
+  "files": [
+   "01.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-15_0931_stories_anons-robotera-l7",
+  "source": "AURA/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-15_0930_anons-robotera-l7"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-15T17:02:35+03:00",
+  "url": "https://www.instagram.com/reel/DehIAzNCTHZ/",
+  "post_id": "18366881272301219",
+  "title": "Косметика и anti-age",
+  "trial": "",
+  "files": [
+   "2026-10-07-kosmetika-cover.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-15_1702_reels_kosmetika",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-15_1700_kosmetika"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-15T17:18:22+03:00",
+  "url": "https://www.instagram.com/p/DehJ6unEdsk/",
+  "post_id": "17939885862383060",
+  "title": "Где рождаются бьюти-хиты Китая",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-15_1718_karusel_tur-china-beauty-antiage",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-15_1715_tur-china-beauty-antiage"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-15T18:26:38+03:00",
+  "url": "https://www.instagram.com/reel/DehRsHKj9NT/",
+  "post_id": "18044290874830909",
+  "title": "Reels-версия карусели «AgiBot D1: робопёс с сальто» (гость: танец собаки)",
+  "trial": "",
+  "files": [
+   "2026-10-10-foto-agibot-d1-reels-cover.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-15_1826_reels_agibot-d1-reels",
+  "source": "AURA/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-15_1800_agibot-d1-reels"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-15T18:27:26+03:00",
+  "url": "https://www.instagram.com/p/DehR1prIAq_/",
+  "post_id": "17962363863197549",
+  "title": "AgiBot D1: робопёс с сальто",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg",
+   "10.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-15_1827_karusel_agibot-d1",
+  "source": "AURA/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-15_1815_agibot-d1"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-15T18:31:46+03:00",
+  "url": null,
+  "post_id": "17993525565058927",
+  "title": "Модель дня №3 «AgiBot D1: робопёс с сальто»",
+  "trial": "",
+  "files": [
+   "01.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-15_1831_stories_anons-agibot-d1",
+  "source": "AURA/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-15_1830_anons-agibot-d1"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-16T08:35:57+03:00",
+  "url": "https://www.instagram.com/reel/Deiy2unDrQl/",
+  "post_id": "18140028649577975",
+  "title": "Автопром и электромобили",
+  "trial": "",
+  "files": [
+   "2026-10-15-avto-cover.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-16_0835_reels_avto",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-16_0830_avto"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-16T08:47:59+03:00",
+  "url": "https://www.instagram.com/p/Dei0ToZET0z/",
+  "post_id": "17917419126457742",
+  "title": "Шесть автозаводов — с севера на юг",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-16_0847_karusel_tur-china-auto-plants",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-16_0845_tur-china-auto-plants"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-16T09:02:23+03:00",
+  "url": "https://www.instagram.com/reel/Dei17ZslJxq/",
+  "post_id": "18147064435522280",
+  "title": "Reels-версия карусели «AgiBot G2: гуманоид на колёсах» (гость: AGV)",
+  "trial": "",
+  "files": [
+   "2026-10-10-foto-agibot-g2-reels-cover.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-16_0902_reels_agibot-g2-reels",
+  "source": "AURA/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-16_0900_agibot-g2-reels"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-16T09:18:46+03:00",
+  "url": "https://www.instagram.com/p/Dei31K-lsfU/",
+  "post_id": "18097811252539711",
+  "title": "AgiBot G2: гуманоид на колёсах",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg",
+   "10.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-16_0918_karusel_agibot-g2",
+  "source": "AURA/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-16_0915_agibot-g2"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-16T09:31:20+03:00",
+  "url": null,
+  "post_id": "18105282944006456",
+  "title": "Модель дня №4 «AgiBot G2: гуманоид на колёсах»",
+  "trial": "",
+  "files": [
+   "01.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-16_0931_stories_anons-agibot-g2",
+  "source": "AURA/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-16_0930_anons-agibot-g2"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-16T17:03:33+03:00",
+  "url": "https://www.instagram.com/reel/Dejs892gdXY/",
+  "post_id": "18235221283323314",
+  "title": "Бытовая техника и умный дом",
+  "trial": "",
+  "files": [
+   "2026-10-07-byt-tehnika-v3-cover.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-16_1703_reels_byt-tehnika",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-16_1700_byt-tehnika"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-16T17:19:38+03:00",
+  "url": "https://www.instagram.com/p/Deju3MmGxrM/",
+  "post_id": "18110241071247827",
+  "title": "9 заводов техники: от Циндао до Шуньдэ",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-16_1719_karusel_tur-china-appliances",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-16_1715_tur-china-appliances"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-16T18:02:39+03:00",
+  "url": "https://www.instagram.com/reel/DejzuJPCtpA/",
+  "post_id": "18631648837041544",
+  "title": "Reels-версия карусели «AgiBot X1: гуманоид с открытым кодом» (гость: манипулятор)",
+  "trial": "",
+  "files": [
+   "2026-10-10-foto-agibot-x1-reels-cover.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-16_1802_reels_agibot-x1-reels",
+  "source": "AURA/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-16_1800_agibot-x1-reels"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-16T18:22:11+03:00",
+  "url": "https://www.instagram.com/p/Dej2BnIlCra/",
+  "post_id": "18197533231381450",
+  "title": "AgiBot X1: гуманоид с открытым кодом",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg",
+   "10.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-16_1822_karusel_agibot-x1",
+  "source": "AURA/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-16_1815_agibot-x1"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-16T18:31:42+03:00",
+  "url": null,
+  "post_id": "17890479741618834",
+  "title": "Модель дня №5 «AgiBot X1: гуманоид с открытым кодом»",
+  "trial": "",
+  "files": [
+   "01.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-16_1831_stories_anons-agibot-x1",
+  "source": "AURA/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-16_1830_anons-agibot-x1"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-17T09:35:36+03:00",
+  "url": "https://www.instagram.com/reel/Deleejmjejv/",
+  "post_id": "18133770697707429",
+  "title": "Новый ритейл и доставка",
+  "trial": "",
+  "files": [
+   "2026-10-07-novyi-riteil-cover.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-17_0935_reels_novyi-riteil",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-17_0930_novyi-riteil"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-17T09:37:19+03:00",
+  "url": "https://www.instagram.com/reel/Delet_UgSSc/",
+  "post_id": "17991458283076520",
+  "title": "Reels-версия карусели «MATRIX-3: гуманоид, который чувствует кожей» (гость: роборука)",
+  "trial": "",
+  "files": [
+   "2026-10-10-foto-matrix-3-reels-cover.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-17_0937_reels_matrix-3-reels",
+  "source": "AURA/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-17_0930_matrix-3-reels"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-17T09:47:15+03:00",
+  "url": "https://www.instagram.com/p/Delf40DkaGb/",
+  "post_id": "18489366031107837",
+  "title": "Ритейл Китая: 9 флагманов вживую",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-17_0947_karusel_tur-china-retail-showrooms",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-17_0945_tur-china-retail-showrooms"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Stories",
+  "published_at": "2026-10-17T10:04:03+03:00",
+  "url": null,
+  "post_id": "18119393141107516",
+  "title": "Модель дня №8 «MATRIX-3: гуманоид, который чувствует кожей»",
+  "trial": "",
+  "files": [
+   "01.jpg"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-17_1004_stories_anons-matrix-3",
+  "source": "AURA/INSTAGRAM/STORIES/PUBLISHED/2026-10/2026-10-17_1000_anons-matrix-3"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-18T09:34:58+03:00",
+  "url": "https://www.instagram.com/reel/DeoDKR8ipQi/",
+  "post_id": "18123965887706500",
+  "title": "Кондитерка",
+  "trial": "",
+  "files": [
+   "2026-10-07-konditerka-cover.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-18_0934_reels_konditerka",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-18_0930_konditerka"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-18T09:37:30+03:00",
+  "url": "https://www.instagram.com/reel/DeoDft3iQXM/",
+  "post_id": "18027442280876715",
+  "title": "Reels-версия карусели «AgiBot A2: гуманоид-рекордсмен» (гость: танец собаки)",
+  "trial": "",
+  "files": [
+   "2026-10-10-foto-agibot-a2-reels-cover.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-18_0937_reels_agibot-a2-reels",
+  "source": "AURA/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-18_0930_agibot-a2-reels"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-18T09:46:59+03:00",
+  "url": "https://www.instagram.com/p/DeoEp2qlQWG/",
+  "post_id": "18131762248690190",
+  "title": "Китайские торты обгоняют мировые бренды",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-18_0946_karusel_tur-confectionery",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-18_0945_tur-confectionery"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-19T08:35:21+03:00",
+  "url": "https://www.instagram.com/reel/DeqhKLQF8gr/",
+  "post_id": "17950911600344570",
+  "title": "ИИ Китая",
+  "trial": "",
+  "files": [
+   "2026-10-07-ai-cover.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-19_0835_reels_ai",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-19_0830_ai"
+ },
+ {
+  "account": "@aura_robotics_ru",
+  "account_name": "Aura Robotics",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-19T08:36:50+03:00",
+  "url": "https://www.instagram.com/reel/DeqhX1NET86/",
+  "post_id": "18111808106622421",
+  "title": "Reels-версия карусели «AgiBot X2: маленький, но шустрый» (гость: AGV)",
+  "trial": "",
+  "files": [
+   "2026-10-10-foto-agibot-x2-reels-cover.mp4"
+  ],
+  "path": "instagram/aura_robotics_ru/2026-10/2026-10-19_0836_reels_agibot-x2-reels",
+  "source": "AURA/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-19_0830_agibot-x2-reels"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-19T08:47:53+03:00",
+  "url": "https://www.instagram.com/p/DeqirYbDrYw/",
+  "post_id": "18129869419833117",
+  "title": "Китай — второй мировой центр ИИ",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-19_0847_karusel_tur-china-ai",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-19_0845_tur-china-ai"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Reels",
+  "published_at": "2026-10-26T08:22:24+03:00",
+  "url": "https://www.instagram.com/reel/De8hPJeFXQb/",
+  "post_id": "18380960758300332",
+  "title": "SANY изнутри: завод, менеджмент, переговоры о программе по заводам техники",
+  "trial": "",
+  "files": [
+   "sany.mp4"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-26_0822_reels_sany",
+  "source": "GTT/INSTAGRAM/REELS/PUBLISHED/2026-10/2026-10-26_0800_sany"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-26T18:33:13+03:00",
+  "url": "https://www.instagram.com/p/De9nO7gldTx/",
+  "post_id": "18145873630578875",
+  "title": "Технопарк 兴旺 (Xingwang) в Чанше: визит делегации, председатель Хоу Синван, активы группы",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg",
+   "10.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-26_1833_karusel_xingwang",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-26_1800_xingwang"
+ },
+ {
+  "account": "@globaltech_tour",
+  "account_name": "Global Tech Tour",
+  "network": "Instagram",
+  "format": "Карусель",
+  "published_at": "2026-10-27T08:41:45+03:00",
+  "url": "https://www.instagram.com/p/De_IVr7FLqN/",
+  "post_id": "18082646342349316",
+  "title": "Юрфирма 盈科 (YingKe): визит, клиенты, ИИ, сотрудничество юристов Китая и России",
+  "trial": "",
+  "files": [
+   "01.jpg",
+   "02.jpg",
+   "03.jpg",
+   "04.jpg",
+   "05.jpg",
+   "06.jpg",
+   "07.jpg",
+   "08.jpg",
+   "09.jpg",
+   "10.jpg"
+  ],
+  "path": "instagram/globaltech_tour/2026-10/2026-10-27_0841_karusel_yingke",
+  "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-27_0800_yingke"
+ }
+]

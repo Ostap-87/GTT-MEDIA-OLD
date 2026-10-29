@@ -1,0 +1,24 @@
+{
+ "account": "@globaltech_tour",
+ "account_name": "Global Tech Tour",
+ "network": "Instagram",
+ "format": "Карусель",
+ "published_at": "2026-10-12T13:33:12+03:00",
+ "url": "https://www.instagram.com/p/DeZBxD5oMk2/",
+ "post_id": "17948856024299882",
+ "title": "12 заводов роботов за одну поездку",
+ "trial": "",
+ "files": [
+  "01.jpg",
+  "02.jpg",
+  "03.jpg",
+  "04.jpg",
+  "05.jpg",
+  "06.jpg",
+  "07.jpg",
+  "08.jpg",
+  "09.jpg"
+ ],
+ "path": "instagram/globaltech_tour/2026-10/2026-10-12_1333_karusel_tur-robotics",
+ "source": "GTT/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-12_1330_tur-robotics"
+}

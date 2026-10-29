@@ -1,0 +1,25 @@
+{
+ "account": "@aura_robotics_ru",
+ "account_name": "Aura Robotics",
+ "network": "Instagram",
+ "format": "Карусель",
+ "published_at": "2026-10-15T18:27:26+03:00",
+ "url": "https://www.instagram.com/p/DehR1prIAq_/",
+ "post_id": "17962363863197549",
+ "title": "AgiBot D1: робопёс с сальто",
+ "trial": "",
+ "files": [
+  "01.jpg",
+  "02.jpg",
+  "03.jpg",
+  "04.jpg",
+  "05.jpg",
+  "06.jpg",
+  "07.jpg",
+  "08.jpg",
+  "09.jpg",
+  "10.jpg"
+ ],
+ "path": "instagram/aura_robotics_ru/2026-10/2026-10-15_1827_karusel_agibot-d1",
+ "source": "AURA/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-15_1815_agibot-d1"
+}
